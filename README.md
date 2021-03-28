@@ -130,7 +130,9 @@ Todos os demais testes são os mesmos testes encontrados no desafio 01 com algum
 
 Após todo código pronto e acertado de acordo com o teste vamos obter o seguinte resultado abaixo:
 
- Vale reforçar que esse desafio é focado apenas em middlewares e você não precisa modificar o conteúdo das rotas para que os testes passem 💜
+<img src="https://github.com/LucasRGarcias/Desafio-02---Middlewares/blob/main/src/imgs/middlewares.png" />
+
+Vale reforçar que esse desafio é focado apenas em middlewares e você não precisa modificar o conteúdo das rotas para que os testes passem 💜
  
  
  Feito com 💜 por Rocketseat e praticado no curso Ignite trila NodeJS👋
